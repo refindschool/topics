@@ -1,0 +1,106 @@
+web-browsers:
+  title: "Web browsers"
+  tags: "web browsers chrome safari mozilla firefox opera install"
+  desc: "Understanding how web browsers work and their features."
+  disabled: true
+
+using-urls:
+  title: "Using URLs"
+  tags: "urls addresses web paths"
+  desc: "Understanding and using URLs in the web browser for faster navigation."
+  indent: 1
+  disabled: true
+  highlight: true
+
+code-editors:
+  title: "Code editors"
+  tags: "code text editors atom sublime install configuration options settings"
+  desc: "Setting up and choosing a code editor."
+
+sublime-text:
+  title: "Sublime Text setup"
+  tags: "sublime text code editors install setup configuration options settings packages plugins"
+  desc: "Installing and setting up Sublime Text as your code editor."
+  indent: 1
+  highlight: true
+
+atom:
+  title: "Atom setup"
+  tags: "github atom text code editors install setup configuration options settings packages plugins"
+  desc: "Installing and setting up GitHub’s Atom text editor."
+  indent: 1
+
+snippets-cheat-sheet:
+  title: "Snippets cheat sheet"
+  tags: "code editor atom sublime text snippets sample code cheat sheet"
+  desc: "A cheat sheet listing all the downloadable snippets for the code editors."
+  cheatsheet: true
+  indent: 1
+
+keyboard-shortcut-cheat-sheet:
+  title: "Keyboard shortcut cheat sheet"
+  tags: "keyboard shortcuts start end line word file document cheat sheet"
+  desc: "A cheat sheet for common keyboard shortcuts to move around text and applications on your Mac."
+  indent: 1
+  cheatsheet: true
+
+code-character-cheat-sheet:
+  title: "Code character cheat sheet"
+  tags: "code character ascii keyboard square angle round bracket brace semi colon quote slash cheat sheet"
+  desc: "A cheat sheet for common keyboard characters typed in code and what they’re called."
+  indent: 1
+  cheatsheet: true
+
+installing-and-using-github:
+  title: "Installing & using GitHub"
+  tags: "github use committing syncing undo saving history messages descriptions installing mac windows setup application"
+  desc: "Installing and using GitHub on your computer to store the code’s history and undo states and synchronize."
+  disabled: true
+
+version-control:
+  title: "Version control in depth"
+  tags: "github version control history undo saving"
+  desc: "Understanding the value of version control and how it helps us."
+  indent: 1
+
+github-pages:
+  title: "Hosting with GitHub Pages"
+  tags: "github hosting gh pages master branches"
+  desc: "Understanding how to use GitHub Pages to host your website."
+  indent: 1
+  highlight: true
+
+branching-github-flow:
+  title: "Branching & GitHub Flow"
+  tags: "github hosting system branches master gh pages flow issues pull requests"
+  desc: "Understanding the GitHub Flow when using branches and pull requests with your team."
+  indent: 1
+
+github-issues:
+  title: "GitHub Issues"
+  tags: "github issues labels descriptions project management problems help"
+  desc: "What GitHub Issues do for use and how to use them for getting feedback, tracking progress, and more."
+  indent: 1
+
+commit-messages:
+  title: "Commit message conventions"
+  tags: "github use committing messages conventions descriptions system"
+  desc: "Writing commit messages that the whole team understands."
+  indent: 1
+
+naming-conventions:
+  title: "Naming conventions"
+  highlight: true
+  tags: "naming conventions lower case dashes no spaces underscore folders files structure"
+  desc: "Writing the proper file name for consistency on the web."
+
+paths-folders:
+  title: "Using paths & folders"
+  tags: "paths folders directories directory link css image source href"
+  desc: "Understanding how your computer, browsers and the web read paths .to different files"
+
+naming-paths-cheat-sheet:
+  title: "Naming & paths cheat sheet"
+  tags: "naming conventions paths folders directories cheat sheet"
+  desc: "A cheat sheet describing the naming conventions for files and folders & path structure."
+  cheatsheet: true
