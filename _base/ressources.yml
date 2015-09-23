@@ -1,0 +1,234 @@
+alchemy Getting started guide; Interactive web demo A text analysis API
+----
+alembic A Practical Guide to Using Alembic; Tutorial  Manage your database changes in python
+----
+algorithms  Problem Solving with Algorithms and Data Structures; Khan Academy Popular methods to manipulate data
+----
+android Building your first app; Android Development  Build apps for Android devices
+----
+angular Shaping up with Angular; egghead.io A javascript framework for data-driven applications
+----
+apache  Apache Documentation  A very popular http web server
+----
+api Best Practices for Designing Pragmatic RESTful APIs; A list of 40+ tutorials on how to make an api  How to expose and access data from different services
+----
+backbone  Developing Backbone.js Applications; Backbone.js for Absolute Beginners A framework that makes handling data easier in JavaScript
+----
+big-o Algorithm Analysis; Big-O Cheat Sheet How to measure your code's performance
+----
+bootstrap Get Started; Getting Started with Bootstrap 3 A popular frontend framework
+----
+bottle  Developing with Bottle; Developing with Bottle - part 2 A fast
+ simple and lightweight micro framework for python
+----
+c#  Learn X in Y Minutes  A popular web programming language
+----
+cakephp CakePHP Cookbook (Docs); Blog Tutorial  A framework for php applications
+----
+clojure Clojure for the Brave and True; Clojure for Beginners A lisp dialect which runs on the JVM
+----
+cloudflare  Overview  Protect your website
+----
+codeigniter CodeIgniter user manual A php web framework
+----
+coffeescript  Learn X in Y Minutes  A language that compiles to JavaScript
+----
+coldfusion  Coldfusion Tutorials; Raymond Camden's CF Blog  A server application for Java
+----
+couchdb Getting Started; Learn CouchDB  A nosql database for the web
+----
+css Codecademy; Dash  Styling your webpage
+----
+d3  D3 Tutorials; Codecademy  A JavaScript library for visualizing data
+----
+dart  Programmer’s Guide; Learn X in Y Minutes  An alternative to JavaScript
+----
+data science  DataQuest Get meaningful insights from your data
+----
+data structures Basic Data Structures; Data Structure Visualizations  Efficiently organize your data in code
+----
+database design tuts+ How to organize your database
+----
+django  Want to Learn Django?; Documentation  A popular web framework for python
+----
+docker  Docker Interactive Tutorial Create lightweight
+ portable
+ self-sufficient containers
+----
+elasticsearch Getting Started; Introducing Query DSL  A popular search engine for your application
+----
+elixir  Try Elixir; Getting Started A language built on top of the Erlang VM
+----
+ember Getting Started TodoMVC Guide; Ember 101  Build robust single-page apps with JavaScript
+----
+express Guide; Introduction to Express  The most popular web framework for node
+----
+facebook  Explore Get data about people and their networks
+----
+firebase  5 Minute Chat Tutorial; Codecademy  A realtime backend for your web or mobile app
+----
+flask Documentation; Flask Mega Tutorial  A basic microframework for python on the web
+----
+flight  Learn Flight  An event-driven web framework for JavaScript
+----
+foursquare  Tutorial; Explore Get data about places
+----
+fundamentals  How the Internet Works in 5 Minutes; 20 Things I Learned  How the web works
+----
+git Try Git; The simple guide Simple to use version control
+----
+go  Tour; Go by Example A new language for the web
+----
+google  Google API Explorer An enormous collection of APIs from Google
+----
+groovy  Beginner's Tutorial; The Groovy Goodness Blog A dynamic language that works with Java
+----
+grunt Getting Started; Tutorial A powerful javascript task runner
+----
+heroku  Get Started; Intro to Heroku Screencast Easily deploy your applications
+----
+html  Dash; Codecademy  The very basics of putting something on a webpage
+----
+http  A Beginner's Guide  The basics of making web requests
+----
+https First Milliseconds https; Switch your website to use https  The basics of secure connections
+----
+jade  Tutorial; Learn Jade  A templating language forhtml
+----
+java  Intro to Programming in Java; Programming Methodology A popular programming language
+----
+javascript  Codecademy; Learn X in Y Minutes  Make your pages interactive
+----
+jekyll  Documentation Simple blogging
+----
+jquery  Try jQuery; Codecademy  Control webpage elements with javascript
+----
+json  What is JSON?; JSON Validator Represent your data in text
+----
+laravel Laravel Docs; Laravel Ins and Outs  The most popular php web framework
+----
+leaflet Leaflet Tutorials; API Reference  A JavaScript library for maps
+----
+less  Synopsis; Verekia's Tutorial  A dynamic stylesheet language
+----
+lightswitch Intro to Lightswitch  A development framework for the web and mobile
+----
+lob docs  An API that lets you print and mail documents
+----
+lodash  Documentation A utility library delivering performance
+----
+mandrill  Getting Started with Mandrill An email API by Mailchimp
+----
+mashape Codecademy  Distribute
+ monetize
+ and consume multiple APIs
+----
+memcached An Adventure in Learning Memcached; Distributed Caching with Memcached  A way to cache your data in memory
+----
+meteor  Friendly walkthrough; EventedMind advanced screencasts  A framework to build realtime web applications in JavaScript
+----
+mongo Try Mongo; MongoDB University A simple javascript based database
+----
+mvc The Model-View-Controller Pattern; What are the benefits of MVC?  Popular software architecture pattern
+----
+name  description box_value
+----
+neo4j Learn Cypher  A graph database
+----
+nginx Beginner's Guide  A popular http web server
+ load balancer
+ and http cache
+----
+node  Node Beginner; nodeschool.io  Create a backend with javascript
+----
+objective-c A primer in Objective-C; Try Objective-C  The previous language for iOS
+----
+parse Tutorials A backend for mobile apps
+----
+perl  Learn Perl; CPAN  A popular programming language
+----
+phalcon Let's Learn By Example  A popular high-performance php framework
+----
+php Learn X in Y Minutes; PHP The Right Way A server-side language for the web
+----
+phpixie 30 Minute Tutorial; Developer Blog  An easy-to-learn php framework
+----
+play  Your first Play application A popular web framework for scala
+----
+python  Codecademy; Intro to Computer Science A programming language to easily pick up
+----
+ractive Learn Ractive.js  Live
+ reactive templates in JavaScript
+----
+rails Michael Hartl's Tutorial; The Best Way to Learn Rails The most popular web framework for ruby
+----
+redis The Little Redis Book; Try Redis  A basic key-value store for caching
+----
+regex RegexOne; Learn Regex the Hard Way  A popular syntax for pattern matching
+----
+rest  Best Practices for Designing Pragmatic RESTful APIs; Designing HTTP Interfaces and RESTful Web Services A way to architecture your applications around verbs and resources
+----
+rethinkdb RethinkDB Quickstart; RethinkDB and Flask An database to store JSON
+----
+ruby  Try Ruby; Codecademy  A simple scripting language
+----
+sass  Tutorial; SassMeister An dynamic extension of css
+----
+scala Scala Tutorials; Learning Scala A highly performant language that works with java
+----
+security  How Encryption Works; An Introduction to Cryptography and Cryptanalysis How to protect your website
+----
+semantria Developer Portal  A text and sentiment analysis API
+----
+sendgrid  Docs; Codecademy  An email API
+----
+seo Google's Starter Guide; The Advanced Guide to SEO Ranking well in search engines
+----
+shell Learning the Shell; Learn Shell Use the command line
+----
+shirts.io Products API  An API to send custom shirts
+----
+sql SQLZoo; w3schools A popular database language
+----
+sqlalchemy  Object Relational Tutorial  Keep your python models and database objects in sync
+----
+stack exchange  Docs  Access all of Stack Exchange and Stack Overflow
+----
+stripe  Get Started; Making Your First Charge Accept payments on your site
+----
+sublime text  The Complete Visual Guide to Sublime Text 3 A popular text editor
+----
+sugar Features  Extend the functionality of JavaScript
+----
+swift A swift tour; RunSwift  The primary language for iOS
+----
+symfony Symfony in 5 minutes; Get started A high performance php framework
+----
+terraform Introduction to Terraform A common configuration to launch infrastructure
+----
+three.js  Documentation; Getting Started With three.js  A JavaScript 3D library
+----
+tornado Documentation An asynchronous microframework for python on the web
+----
+twig  Documentation A template engine for php
+----
+twilio  Quickstart  Send and receive texts and calls
+----
+uilang  Home  A minimal programming language for web designers
+----
+underscore  Getting Cozy with Underscore  A utility belt for JavaScript
+----
+vagrant Why Vagrant?; Getting Started A tool for building and managing virtual environments
+----
+velocity  Documentation; Improving UI Animation Workflow  Smooth JavaScript animation
+----
+vim Vim Adventures; Interactive Vim Tutorial  A text editor in your console
+----
+webhooks  RequestBin - Inspect HTTP Requests; 7 Reasons Webhooks are Magic  HTTP based integrations
+----
+windows phone Windows App Builder Build apps for windows phones
+----
+xml XML Tutorial  An alternative to json
+----
+yii The Definitive Guide to Yii; Larry Ullman's Learning Yii Series A php framework built for ajax
+

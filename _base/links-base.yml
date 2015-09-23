@@ -107,6 +107,12 @@
     level: 2
     url: http://www.tldp.org/LDP/abs/html/part5.html
 - name: git
+  topics:
+  - installing-and-using-github
+  - version-control
+  - commit-messages
+  - branching-github-flow
+  - github-issues
   tags:
   - bridge
   description: Simple to use version control
@@ -247,12 +253,16 @@
     level: 0
     url: http://teamtreehouse.com/library/websites/build-an-interactive-website
 - name: sublime text
+  topics:
+  - code-editors
+  - sublime-text
   tags:
   - ide
   description: A popular text editor
   before: []
   after:
   - vim
+  - atom
   - python
   home: http://www.sublimetext.com/
   links:
@@ -543,6 +553,9 @@
     level: 0
     url: http://interactivepython.org/runestone/static/pythonds/BasicDS/basic.html
 - name: http
+  topics:
+  - internet
+  - web-browsers
   tags:
   - bridge
   description: The basics of making web requests
@@ -580,6 +593,9 @@
     level: 1
     url: https://code.google.com/p/browsersec/wiki/Main
 - name: https
+  topics:
+  - internet
+  - web-browsers
   tags:
   - bridge
   description: The basics of secure connections
@@ -869,6 +885,8 @@
     level: 0
     url: http://regex.learncodethehardway.org/book/
 - name: vim
+  topics:
+  - code-editors
   tags:
   - ide
   description: A text editor in your console
