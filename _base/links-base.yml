@@ -3,11 +3,9 @@
 ---
 - name: fundamentals
   topics :
-    - name: web-browsers
-      title: "Web browsers"
-      tags: "web browsers chrome safari mozilla firefox opera install"
-      desc: "Understanding how web browsers work and their features."
-      disabled: true
+    - internet
+    - web-browsers
+    - url-base
   tags:
   - bridge
   description: How the web works
