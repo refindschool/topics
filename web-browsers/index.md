@@ -5,7 +5,7 @@ Web browsers are the most widely used software. In this primer, I will explain h
 
 ## The browsers we will talk about
 
-Five major browsers used on desktop : Chrome, Internet Explorer (new version : Edge), Firefox, Safari and Opera. 
+Five major browsers used on desktop : Chrome, Internet Explorer (new version : Edge), Firefox, Safari and Opera.
 
 On mobile, the main browsers are Android Browser, iPhone, Opera Mini and Opera Mobile, UC Browser, the Nokia S40/S60 browsers and Chrome.
 
@@ -21,7 +21,7 @@ The location of the resource is specified by the user using a URI (Uniform Resou
 
 The way the browser interprets and displays HTML files is specified in the HTML and CSS specifications.
 
-These specifications are maintained by the <a id="w3c" target="_blank">W3C</a> (World Wide Web Consortium) organization, which is the standards organization for the web. 
+These specifications are maintained by the _<a id="w3c" target="_blank">W3C</a>_ (World Wide Web Consortium) organization, which is the standards organization for the web.
 
 For years browsers conformed to only a part of the specifications and developed their own extensions. That caused serious compatibility issues for web authors. Today most of the browsers more or less conform to the specifications.
 
@@ -358,11 +358,11 @@ Like bookmarking and back/forward buttons it's just something that developed in 
 The HTML5 specification does define some of these requirements. (WebKit summarizes this nicely in the comment at the beginning of the HTML parser class.)
 
 > The parser parses tokenized input into the document, building up the document tree. If the document is well-formed, parsing it is straightforward.
-> 
+>
 > Unfortunately, we have to handle many HTML documents that are not well-formed, so the parser has to be tolerant about errors.
-> 
+>
 > We have to take care of at least the following error conditions:
-> 
+>
 > 1.  The element being added is explicitly forbidden inside some outer tag. In this case we should close all tags up to the one which forbids the element, and add it afterwards.
 > 2.  We are not allowed to add the element directly. It could be that the person writing the document forgot some tag in between (or that the tag in between is optional). This could be the case with the following tags: HTML HEAD BODY TBODY TR TD LI (did I forget any?).
 > 3.  We want to add a block element inside an inline element. Close all inline elements up to the next higher block element.

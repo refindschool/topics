@@ -83,6 +83,8 @@ analytics-monitoring:
   tags: "analytics stats monitoring website google uptime users search terms keywords"
   desc: "Monitoring our website for the types of visitors we get and watching for downtime."
   indent: 1
+  resources:
+    - analytics-monitoring
 
 seo-checklist:
   title: "SEO checklist"

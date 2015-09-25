@@ -1,6 +1,22 @@
 
 # bases and Foundations
 ---
+- name: analytics-monitoring
+  tracks:
+    - analytics-monitoring
+  tags:
+    - analytics
+    - stats
+    - monitoring
+    - keywords
+  description: Monitoring for entrepreneurs
+  before: [api]
+  after: []
+  home: http://www.google.com/analytics/standard/resources/
+  links:
+  - name: Workshop Technical Entrepreneurship
+    level: 0
+    url: https://www.youtube.com/watch?v=wC90ors8BMk
 - name: fundamentals
   tracks :
     - internet
@@ -9,11 +25,8 @@
   tags:
   - bridge
   description: How the web works
-  before: []
-  after:
-  - html
-  - css
-  - javascript
+  before: [api]
+  after: []
   home: http://developer.mozilla.org/en-US/docs/Web/HTML
   links:
   - name: How the Internet Works in 5 Minutes
