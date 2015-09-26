@@ -1,4 +1,8 @@
 
+---
+group: setup
+---
+
 # How modern Browsers Work
 
 Web browsers are the most widely used software. In this primer, I will explain how they work behind the scenes. We will see what happens when you type google.com in the address bar until you see the Google page on the browser screen.
