@@ -2,8 +2,6 @@
 group: setup
 ---
 
-# How modern Browsers Work
-
 Web browsers are the most widely used software. In this primer, I will explain how they work behind the scenes. We will see what happens when you type google.com in the address bar until you see the Google page on the browser screen.
 
 ## The browsers we will talk about
@@ -50,7 +48,8 @@ The browser's main components are ([1.1](http://www.html5rocks.com/en/tutorials/
 6.  **JavaScript interpreter**. Used to parse and execute JavaScript code.
 7.  **Data storage**. This is a persistence layer. The browser may need to save all sorts of data locally, such as cookies. Browsers also support storage mechanisms such as localStorage, IndexedDB, WebSQL and FileSystem.
 
-<figure><div class="readableLargeImageContainer">![](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/layers.png)</div><figcaption>Figure :  Browser components</figcaption></figure>
+![](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/layers.png)
+Figure :  Browser components
 
 It is important to note that browsers such as Chrome run multiple instances of the rendering engine: one for each tab. Each tab runs in a separate process.
 
