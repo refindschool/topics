@@ -2,7 +2,6 @@ internet:
   title: "Internet : How it all works"
   tags: "Internet web browsers  client server tcp-ip http"
   desc: "Understanding  the basics on the internet to learn development/design"
-  disabled: true
   resources:
   - fundamentals
   - http
@@ -12,7 +11,6 @@ web-browsers:
   title: "Web browsers"
   tags: "web browsers chrome safari mozilla firefox opera install"
   desc: "Understanding how web browsers work and their features."
-  disabled: true
   resources:
   - fundamentals
   - http

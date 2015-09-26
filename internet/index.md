@@ -1,10 +1,9 @@
-
-# Start Creating Amazing Web Experiences
+---
+group: setup
+---
 
 Ultimate Beginner’s Guide for Those Who Want to Pursue Web Development or Design
 
-
-----
 ### Introduction
 
 This is the ultimate beginner’s guide for those who want to learn how to create amazing web experiences.
@@ -14,7 +13,7 @@ This is the ultimate beginner’s guide for those who want to learn how to creat
 *   Internet fundamentals
 *   The world wide web (and its components: like images, HTML, and CSS)
 *   Client side versus server side
-*   Helpful workflow tools
+*   Helpful workflow toolsÓ
 *   Where you can start learning
 *   _And much more_
 
