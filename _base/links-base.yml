@@ -522,6 +522,26 @@
   - name: Getting Started with Bootstrap 3
     level: 0
     url: http://www.realpython.com/blog/design/getting-started-with-bootstrap-3
+- name: material-design-lite
+  tags:
+  - frontend
+  description: Material Design Lite lets you add a Material Design look and feel to your websites.
+  before: []
+  after:
+  - angular
+  - ember
+  - backbone
+  - sass
+  - less
+  - flight
+  home: http://www.getmdl.io/
+  links:
+  - name: Get Started
+    level: 0
+    url: http://www.getmdl.io/started/index.html
+  - name: BEM(Block, Element, Modifier) methodology
+    level: 0
+    url: https://css-tricks.com/bem-101/
 - name: big-o
   tags:
   - bridge
