@@ -288,6 +288,23 @@
   - name: 'Getting Started with Sublime Text 3: 25 Tips, Tricks, and Shortcuts'
     level: 0
     url: https://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/
+- name: markdown
+  tracks:
+  - markdown
+  tags:
+  - markdown
+  - writing
+  description: A lightweight syntax for web writers with a text-to-HTML conversion tool.
+  before: []
+  after:
+  - vim
+  - atom
+  - sublime text
+  home: https://guides.github.com/features/mastering-markdown/
+  links:
+  - name: 'Markdown for Dummies'
+    level: 0
+    url: https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85
 - name: python
   tags:
   - backend
